@@ -1,1 +1,1 @@
-# flask-blank
+# flask project by Michael Stepanov
